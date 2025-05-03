@@ -1,1 +1,1 @@
-https://github.com/Opperrattorr/ono-tebe-nado
+https://github.com/Opperrattorr/ono-tebe-nado-fd
