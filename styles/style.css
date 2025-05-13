@@ -26,7 +26,7 @@
   width: 100%;
 }
 
-.header_links-list_item{
+.header_links-list_item {
   list-style: circle;
 }
 
@@ -80,7 +80,6 @@
 }
 
 .aligned-text {
-  display: block;
   text-transform: uppercase;
   letter-spacing: 0.3em;
   font-size: 100px;
@@ -88,14 +87,12 @@
 }
 
 .aligned-text_center {
-  display: block;
   text-align: center;
   text-transform: uppercase;
   margin-right: -0.3em;
 }
 
 .aligned-text_right {
-  display: block;
   text-transform: uppercase;
   text-align: end;
   margin-right: -0.3em;
@@ -138,6 +135,7 @@
   list-style: none;
   margin-left: 23px;
   padding-top: 27px;
+  row-gap: 25px;
 }
 
 .lots_card-list_item {
